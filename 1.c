@@ -4,7 +4,6 @@ struct SinhVien{
 	char fullName[50];
 	int age;
 };
-//
 void writeFile(struct SinhVien sinhVien[], int n);
 int readFile(struct SinhVien sinhVien[]);
 void addSinhVien(struct SinhVien sinhVien[], int *n);
