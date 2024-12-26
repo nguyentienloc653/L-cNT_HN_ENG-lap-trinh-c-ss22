@@ -95,7 +95,6 @@ void inDanhSach(struct SinhVien sinhVien[], int n){
 		printf("Tuoi sinh vien: %d\n", sinhVien[i].age);
 	}
 }
-//
 void suaSinhVien(struct SinhVien sinhVien[], int n){
 	int sua;
 	printf("Ban hay nhap ID sinh vien muon sua: ");
